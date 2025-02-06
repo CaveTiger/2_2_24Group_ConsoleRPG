@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\2_2_24Group_ConsoleRPG\\ConsoleRPG24\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\UnityGit\\2_2_24Group_ConsoleRPG\\ConsoleRPG24\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BC495328-2C0F-4177-B6F6-210548824D6B}|ConsoleRPG24\\ConsoleRPG24.csproj|c:\\users\\user\\2_2_24group_consolerpg\\consolerpg24\\consolerpg24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC495328-2C0F-4177-B6F6-210548824D6B}|ConsoleRPG24\\ConsoleRPG24.csproj|c:\\users\\user\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\unitygit\\2_2_24group_consolerpg\\consolerpg24\\consolerpg24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC495328-2C0F-4177-B6F6-210548824D6B}|ConsoleRPG24\\ConsoleRPG24.csproj|solutionrelative:consolerpg24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,21 +14,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\2_2_24Group_ConsoleRPG\\ConsoleRPG24\\ConsoleRPG24\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\UnityGit\\2_2_24Group_ConsoleRPG\\ConsoleRPG24\\ConsoleRPG24\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleRPG24\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\2_2_24Group_ConsoleRPG\\ConsoleRPG24\\ConsoleRPG24\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\UnityGit\\2_2_24Group_ConsoleRPG\\ConsoleRPG24\\ConsoleRPG24\\Program.cs",
               "RelativeToolTip": "ConsoleRPG24\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwYAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-06T05:48:58.624Z",
               "EditorCaption": ""
